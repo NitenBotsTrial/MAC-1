@@ -1,1 +1,1 @@
-a = input('digite 2'); if a == '2':;  print('opa');
+def oi():;  a = input('digite 2'); print(2);
