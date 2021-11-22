@@ -1,1 +1,1 @@
-a = input('digita ai') if (a == 2):  print('oi')
+a = input('digita ai'); if (a == 2):  print('oi');
