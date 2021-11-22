@@ -1,1 +1,1 @@
-print('oi'); a = input('digita ai'); print('a');
+print('oi'); a = input('digita ai'); print(a);
