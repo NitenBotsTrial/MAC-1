@@ -1,1 +1,1 @@
-def oi():\n  a = input('digite 2'); print(2);
+(if a == 2):;
