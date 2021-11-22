@@ -1,1 +1,1 @@
-print('oi') print('como vai')
+print('oi') \n print('como vai')
